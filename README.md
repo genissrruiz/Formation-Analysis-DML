@@ -6,3 +6,6 @@ Files:
 - final_dataframe_construction.ipynb : Contains data cleaning and feature engineering steps, crucial for creating useful and valuable variables for the following DML model. 
 - {goals,yellow_cards,red_cards,possession,corners,points}_matrix.ipnyb : Each one contains the DML process but using the defined statistic variable as target variable. It also displays the formations combinations beta estimators matrix (the ones which appear in the paper).
 - goals_complementary_analysis.ipynb: Contains a feature importance study of the DML model that uses the goals difference as the target variable. 
+
+
+The article can be found in https://arxiv.org/abs/2602.16830
